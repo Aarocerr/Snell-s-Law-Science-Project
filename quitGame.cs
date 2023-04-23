@@ -6,7 +6,7 @@ public class quitGame : MonoBehaviour
 {
     public void QuitGame()
     {
-        Debug.Log("QUIT");
+        Debug.Log("QUIT"); // this line is redundant when ran on a user's pc, it's just for testing purposes so while in the Unity editor I know that the Quit button works
         Application.Quit();
     }
 }
