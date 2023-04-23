@@ -12,3 +12,4 @@ ALL FOUR UNITY C# SCRIPTS FOR SCIENCE PROJECT BY AARON:
 
 
 IMPROVEMENTS: One thing that would've made the code better is making it so when you spawn 'backgroundGlass' it would delete the previous 'backgroundWater', and vice versa. This would've made the code more lag efficient. Also, the script uses a little too many comments for my liking making it redundant, but considering it's a school project, it's not too bad (I hope).
+
