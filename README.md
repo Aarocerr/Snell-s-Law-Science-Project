@@ -7,7 +7,7 @@ ALL FOUR UNITY C# SCRIPTS FOR SCIENCE PROJECT BY AARON:
 
 **ChangeToGlass:** Does the same as 'ChangeToWater' class but instead changes string variable 'materal' to 'glass', NOT 'water'
 
-**quitGame:** Handles the quit button. When you press it, it runs the code 'Application.Quit();' which stops the program from running. (PS: I realise the title of this should be in PascalCase)
+**QuitGame:** Handles the quit button. When you press it, it runs the code 'Application.Quit();' which stops the program from running.
 
 
 
